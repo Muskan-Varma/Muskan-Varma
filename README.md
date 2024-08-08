@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Muskan-Varma
+# 👋 Hi, I’m Muskan Varma
 
 - 👀 I’m interested in Data Analytics and Web Development.
 - 🌱 I’m currently pursuing a BE in Computer Engineering at K.K. Wagh Institute of Engineering Education and Research, Nashik.
